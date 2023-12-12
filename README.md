@@ -1,5 +1,6 @@
-![coding2](https://github.com/Janindu2001425/Janindu2001425/assets/153587872/8943416d-9107-42d6-8660-707b4933b127)
-
+<p align="center">
+  <img width="960" height="400" src="https://wallpapers.com/images/hd/minimalist-eat-sleep-code-1zi2numjxcvd448g.jpg">
+</p>
 
 <h1 align="center"> Hell🌎 World! </h1>
 <h2 align="center"> I'm Janindu Chamod </h2>
